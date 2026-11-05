@@ -142,3 +142,4 @@ Scripts: `dev` runs the TypeScript directly, `build` compiles to `dist/`, `start
 ## This server reads your Garmin. Shape writes to it too.
 
 Let Claude plan your training and [Shape](https://shapecalendar.com) sends every workout to your watch. Garmin, Apple Health and Wahoo in Claude and ChatGPT, nothing to install, and a beautiful iOS app and web interface. Shape uses Garmin's partner API, which can write workouts to your devices and receives new activities the moment they arrive.
+Déploiement Vercel
